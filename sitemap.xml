@@ -1,129 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/01-intro.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/01-intro.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/02-numpy.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/02-numpy.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/03-matplotlib.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/03-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/04-lists.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/04-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/05-loop.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/05-loop.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/06-files.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/06-files.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/07-cond.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/07-cond.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/08-func.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/08-func.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/09-errors.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/09-errors.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/10-defensive.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/10-defensive.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/11-debugging.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/11-debugging.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/12-cmdline.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/12-cmdline.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/404.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/CODE_OF_CONDUCT.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/LICENSE.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/additional_material.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/additional_material.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/discuss.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/extra_exercises.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/index.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/extra_exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/01-intro.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/02-numpy.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/index.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/03-matplotlib.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/01-intro.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/04-lists.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/02-numpy.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/05-loop.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/03-matplotlib.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/06-files.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/04-lists.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/07-cond.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/05-loop.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/08-func.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/06-files.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/09-errors.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/07-cond.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/10-defensive.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/08-func.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/11-debugging.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/09-errors.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/12-cmdline.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/10-defensive.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/404.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/11-debugging.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/12-cmdline.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/LICENSE.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/additional_material.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/discuss.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/extra_exercises.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/additional_material.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/index.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/profiles.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/discuss.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/instructor/reference.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/extra_exercises.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/profiles.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://swcarpentry.github.io/python-novice-inflammation/reference.html</loc>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://einonm.github.io/introduction-to-python-v2/reference.html</loc>
   </url>
 </urlset>

@@ -11,29 +11,29 @@
 carpentry: 'swc'
 
 # Overall title for pages.
-title: 'Programming with Python'
+title: 'Introduction to Python'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2014-11-25'
+created: '2026-11-24'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'stable'
+life_cycle: 'beta'
 
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/swcarpentry/python-novice-inflammation'
+source: 'https://github.com/einonm/introduction-to-python-v2'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'arcca-help@cardiff.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -58,35 +58,25 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-intro.md
 - 02-numpy.md
 - 03-matplotlib.md
 - 04-lists.md
 - 05-loop.md
 - 06-files.md
-- 07-cond.md
-- 08-func.md
-- 09-errors.md
-- 10-defensive.md
-- 11-debugging.md
-- 12-cmdline.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-
-url: 'https://swcarpentry.github.io/python-novice-inflammation'
-analytics: carpentries
-lang: en
