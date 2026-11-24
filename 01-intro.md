@@ -203,7 +203,7 @@ print(*args, sep=' ', end='\n', file=None, flush=False)
 This help message, which includes information from the function's documentation, provides a usage statement, a list of parameters accepted by the function, and their default values.
 
 It is normal to encounter error messages while programming, whether you are learning for the first time or have been programming for many years.
-[We will discuss error messages in more detail later](./09-errors.md). 
+[We will discuss error messages in the Advance Python course]().
 For now, let's explore how people use them to get more help when they are stuck with their Python code.
 
 * Search the internet: 
@@ -214,7 +214,7 @@ For now, let's explore how people use them to get more help when they are stuck 
 * Ask somebody "in the real world". 
   If you have a colleague or friend with more expertise in Python than you have, show them the problem you are having and ask them for help.
 
-[We will discuss more debugging strategies in greater depth later in the lesson](./11-debugging.md).
+[We will discuss more debugging strategies in the Advanced Python course]().
 
 ### Generative AI
 
@@ -228,7 +228,7 @@ Depending on your own level of experience and comfort with talking about and usi
 * Demonstrate how you recommend that learners use generative AI.
 * Discuss the ethical concerns listed below, as well as others that you are aware of, to help learners make an informed choice about whether or not to use generative AI tools.
 
-This is a fast-moving technology. 
+This is a fast-moving technology.
 If you are preparing to teach this section and you feel it has become outdated, please open an issue on the lesson repository to let the Maintainers know and/or a pull request to suggest updates and improvements.
 
 ::::::::::::::::::::::::::::::::::::::::
